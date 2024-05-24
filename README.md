@@ -10,9 +10,9 @@ Before running the main.py file, ensure you have the following libraries install
 
     Install pip:
         pip is usually included with Python. You can check if pip is installed by running the following command in your terminal or command prompt:
-        
+        ```bash
         pip --version
-
+        ```
     If pip is not installed, you can download it by following the instructions here.
 
 Install required libraries:
