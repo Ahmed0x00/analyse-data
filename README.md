@@ -8,11 +8,7 @@ Before running the main.py file, ensure you have the following libraries install
     Ensure you have Python installed:
         Download and install Python from the official website: Python.org.
 
-    pip is usually included with Python. You can check if pip is installed by running the following command in your terminal or command prompt:
-
-bash
-
-pip --version
+    pip is usually included with Python. You can check if pip is installed by running the following command in your terminal or command prompt: pip --version
 
 If pip is not installed, you can download it by following the instructions here.
 
@@ -21,8 +17,6 @@ Install required libraries:
     Open your terminal or command prompt and navigate to the project directory where main.py is located.
 
     Run the following command to install all required libraries:
-
-    bash
 
     pip install json5 translate BeautifulSoup4 selenium pandas
 
@@ -33,9 +27,6 @@ Install required libraries:
 Installing Specific Libraries:
 
     If you prefer to install each library individually, you can use the following commands:
-
-    bash
-
         pip install json5
         pip install translate
         pip install beautifulsoup4
